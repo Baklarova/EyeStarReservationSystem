@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeStarReservationSystem", "EyeStarReservationSystem\EyeStarReservationSystem.csproj", "{14DB2882-3DDC-4405-A958-8D1C2746CA52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeStarReservationSystem.Core", "EyeStarReservationSystem.Core\EyeStarReservationSystem.Core.csproj", "{2226F14F-50DB-421D-9BCE-1FDB4F752EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeStarReservationSystem.Infrastructure", "EyeStarReservationSystem.Infrastructure\EyeStarReservationSystem.Infrastructure.csproj", "{DCCA6C8D-01CB-4CB7-9E2C-E18D50BBA09B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{14DB2882-3DDC-4405-A958-8D1C2746CA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14DB2882-3DDC-4405-A958-8D1C2746CA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14DB2882-3DDC-4405-A958-8D1C2746CA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2226F14F-50DB-421D-9BCE-1FDB4F752EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2226F14F-50DB-421D-9BCE-1FDB4F752EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2226F14F-50DB-421D-9BCE-1FDB4F752EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2226F14F-50DB-421D-9BCE-1FDB4F752EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCA6C8D-01CB-4CB7-9E2C-E18D50BBA09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCA6C8D-01CB-4CB7-9E2C-E18D50BBA09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCA6C8D-01CB-4CB7-9E2C-E18D50BBA09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCA6C8D-01CB-4CB7-9E2C-E18D50BBA09B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
