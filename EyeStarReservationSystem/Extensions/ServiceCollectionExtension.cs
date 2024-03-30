@@ -1,4 +1,4 @@
-﻿using EyeStarReservationSystem.Data;
+﻿using EyeStarReservationSystem.Infrastructure.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 

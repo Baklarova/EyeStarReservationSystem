@@ -1,7 +1,4 @@
-using EyeStarReservationSystem.Data;
 using EyeStarReservationSystem.ModelBinders;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
 
 namespace EyeStarReservationSystem
 {

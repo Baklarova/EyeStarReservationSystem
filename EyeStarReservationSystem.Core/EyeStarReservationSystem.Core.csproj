@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EyeStarReservationSystem.Infrastructure\EyeStarReservationSystem.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
